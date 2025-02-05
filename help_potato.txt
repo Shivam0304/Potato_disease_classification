@@ -11,4 +11,3 @@ Steps:-
 4. open terminal and run the docker command 
 5. can check if models are uploaded properly by using url generated in cp/ written in api by removing word 'predict'
 6. open frontend dir in cp and run 'npm run start' to launch the website.
-7. Lastly, you can always use his GitHub repo for help!
